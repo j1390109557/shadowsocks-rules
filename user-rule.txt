@@ -6,3 +6,5 @@
 ||gitbook.com^
 ||ilovelan.com^
 ||cloudflare.com^
+||github.com^
+||alphacoders.com^
