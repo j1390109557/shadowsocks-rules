@@ -8,3 +8,5 @@
 ||cloudflare.com^
 ||github.com^
 ||alphacoders.com^
+||dribbble.com^
+||tinypng.com^
