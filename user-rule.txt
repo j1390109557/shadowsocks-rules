@@ -1,12 +1,14 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
-||lwgod.com^
-||icloud.com^
-||instapaper.com^
-||gitbook.com^
-||ilovelan.com^
-||cloudflare.com^
-||github.com^
-||alphacoders.com^
-||dribbble.com^
-||tinypng.com^
+||lwgod.com
+||icloud.com
+||instapaper.com
+||gitbook.com
+||ilovelan.com
+||cloudflare.com
+||github.com
+||alphacoders.com
+||dribbble.com
+||tinypng.com
+||weavatools.com
+||myzaker.com
