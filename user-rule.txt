@@ -1,10 +1,11 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
-lwgod.com
-icloud.com
-instapaper.com
+stackoverflow.com
 gitbook.com
 github.com
+lwgod.cc
+icloud.com
+instapaper.com
 ilovelan.com
 cloudflare.com
 alphacoders.com
