@@ -6,10 +6,13 @@ github.com
 lwgod.cc
 icloud.com
 instapaper.com
-ilovelan.com
 cloudflare.com
 alphacoders.com
 dribbble.com
 tinypng.com
 weavatools.com
 sketchapp.com
+notepad-plus-plus.org
+docker.com
+blockchain.info
+virtualbox.org
