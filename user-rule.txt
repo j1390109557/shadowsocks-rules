@@ -2,6 +2,7 @@
 ! See https://adblockplus.org/en/filter-cheatsheet
 stackoverflow.com
 gitbook.com
+legacy.gitbook.com
 github.com
 lwgod.cc
 icloud.com
@@ -13,6 +14,7 @@ tinypng.com
 weavatools.com
 sketchapp.com
 notepad-plus-plus.org
+store.docker.com
 docker.com
 blockchain.info
 virtualbox.org
@@ -20,3 +22,7 @@ blockchain.com
 get.app
 studio3t.com
 www.321n.net
+www.acglala.com
+wall.gyteng.com
+infura.io
+ethereum.org
