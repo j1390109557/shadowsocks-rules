@@ -27,3 +27,4 @@ wall.gyteng.com
 infura.io
 ethereum.org
 www.amazon.cn
+redis.io
