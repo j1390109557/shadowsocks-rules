@@ -21,10 +21,13 @@ virtualbox.org
 blockchain.com
 get.app
 studio3t.com
-www.321n.net
-www.acglala.com
+321n.net
+acglala.com
 wall.gyteng.com
 infura.io
 ethereum.org
-www.amazon.cn
+amazon.cn
 redis.io
+getpostman.com
+jetbrains.com
+gandi.net
