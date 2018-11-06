@@ -27,6 +27,8 @@ wall.gyteng.com
 infura.io
 ethereum.org
 amazon.cn
+amazon.com
+aws.amazon.com
 redis.io
 getpostman.com
 jetbrains.com
