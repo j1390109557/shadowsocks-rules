@@ -34,3 +34,4 @@ gandi.net
 iissnan.com
 redis.io
 tunsafe.com
+pivotal.io
