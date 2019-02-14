@@ -35,3 +35,5 @@ iissnan.com
 redis.io
 tunsafe.com
 pivotal.io
+rixcloud.me
+dlercloud.com
