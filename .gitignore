@@ -2,3 +2,10 @@
 *.json
 *.exe
 pac.txt
+chn_ip.txt
+temp/
+templates/
+*.backup
+LICENSE
+*.sig
+*.rule
