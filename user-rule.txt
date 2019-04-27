@@ -57,3 +57,4 @@
 ||jsqpro.com^
 ||monocloud.me^
 ||dropbox.com^
+||apple.com^
