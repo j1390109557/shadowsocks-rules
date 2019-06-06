@@ -58,3 +58,4 @@
 ||monocloud.me^
 ||dropbox.com^
 ||apple.com^
+||pixiv.net^
